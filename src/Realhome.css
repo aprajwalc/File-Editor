@@ -125,6 +125,10 @@ body{
     background-color: black;
     color:#cddfff;
     transition: 0.5s;
+
+    img {
+        filter: invert(100%);
+    }
 }
 
 #delete{
